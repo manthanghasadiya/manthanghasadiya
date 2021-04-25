@@ -13,7 +13,7 @@
   <img alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="/img/youtube.png" />
+  <img alt="Manthan's YT channel" width="22px" src="/img/YT.png" />
 </a>
 </p>
 
