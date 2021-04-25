@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Bug Bounty Hunting**
 
-- 👾 My Personal Website [Manthan Ghasadiya](https://manthanghasadiya.github.io/hackynerdz/)
+- 👾 My Personal Website [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
 
 - 💻 Blogging at [Techfornerdz](https://techfornerdz.com)
 
