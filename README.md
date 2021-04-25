@@ -3,8 +3,8 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p> 
 
 <p align="center">
-<a href="https://discord.gg/XTW52Kt">
-  <img alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.instagram.com/g_m_j_27_03/">
+  <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
   <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
