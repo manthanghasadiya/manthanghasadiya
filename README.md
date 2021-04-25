@@ -2,4 +2,4 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p> 
 
-<p>Welcome to my page! </br> I'm Manthan, Ethical hacking Enthusiast & a developer from <img src="india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="worldwide.png" width="14"> techfornerdz.com</a> and also a youtuber </p>
+<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan Ghasadiya, Ethical hacking Enthusiast & a developer from <img src="india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="worldwide.png" width="14"> techfornerdz.com</a> and also a youtuber </p>
