@@ -3,16 +3,17 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p> 
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/g_m_j_2703">
+  <img align="center" alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/manthan-ghasadiya-6322bb1a0/">
+  <img align="center" alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://youtube.com/hackynerdz">
+  <img align="center" alt="Manthan's YT channel" width="22px" src="/img/youtube.png" />
 </a>
 
+<br>
 <p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan Ghasadiya</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
