@@ -15,4 +15,4 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan Ghasadiya</a>, Ethical hacking Enthusiast & a developer from <img src="india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
+<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan Ghasadiya</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
