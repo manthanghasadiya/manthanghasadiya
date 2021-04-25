@@ -3,7 +3,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p> 
 
 <p align="center">
-<a href="https://www.instagram.com/g_m_j_27_03/">
+<a href="https://www.instagram.com/g_m_j_27_03/" >
   <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
@@ -17,4 +17,16 @@
 </a>
 </p>
 
-<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan Ghasadiya</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
+<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
+
+<img src="/img/Hacking.gif" width="300" align='right'>
+
+<br/>
+
+- 🌱 I’m currently learning **Bug Bounty Hunting**
+
+- 👾 My Personal Website [Manthan Ghasadiya](https://manthanghasadiya.github.io/hackynerdz/)
+
+- 💻 Blogging at [Techfornerdz](https://techfornerdz.com)
+
+- 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
