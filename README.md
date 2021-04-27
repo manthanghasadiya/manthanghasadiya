@@ -24,6 +24,8 @@
 
 <img src="/img/Hacking.gif" width="300" align='right'>
 
+<br/>
+
 - 🌱 I’m currently learning **Bug Bounty Hunting**
 
 - 👾 My Personal Website [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
@@ -33,11 +35,12 @@
 - 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
 
 - 💬 Ask me about anything **I'm happy to help🤝**
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
-
-
-
------
+----------
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=manthanghasadiya&show_icons=true&theme=gotham" alt="manthanghasadiya" />
