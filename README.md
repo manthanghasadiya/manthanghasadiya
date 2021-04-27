@@ -24,8 +24,6 @@
 
 <img src="/img/Hacking.gif" width="300" align='right'>
 
-<br/>
-
 - 🌱 I’m currently learning **Bug Bounty Hunting**
 
 - 👾 My Personal Website [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
