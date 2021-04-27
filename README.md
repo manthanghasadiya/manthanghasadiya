@@ -35,10 +35,6 @@
 - 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
 
 - 💬 Ask me about anything **I'm happy to help🤝**
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 ----------
 
