@@ -19,7 +19,7 @@
 
 -----
 
-<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
+<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. Co-founder of <a href="https://www.bitsportal.org"><img src="/img/worldwide.png" width="14"> Bitsportal.org</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
 <p>I like to use different Operating systems and learn different features about those OS. I also like to spread more knowledge about technology to all aroud the globe. That's why I write blogs and make youtube Videos.</p>
 
 <img src="/img/Hacking.gif" width="300" align='right'>
