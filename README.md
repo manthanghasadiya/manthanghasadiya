@@ -30,7 +30,7 @@
 
 - 👾 My Portfolio [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
 
-- 💻 Blogging at [Techfornerdz](https://techfornerdz.com)
+- 💻 Co-founder of [Bitsportal](https://Bitsportal.org)
 
 - 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
 
