@@ -26,7 +26,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Bug Bounty Hunting**
+- 🌱 I’m currently learning **Web security From PortSwigger**
 
 - 👾 My Portfolio [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
 
