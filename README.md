@@ -37,6 +37,12 @@
 - 💬 Ask me about anything **I'm happy to help🤝**
 
 ----------
+<div>
+<p align="center">
+<script src="https://tryhackme.com/badge/224313"></script>
+</p>
+</div>
+----------
 
 <div>
   <p align="center">
