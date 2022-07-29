@@ -39,7 +39,7 @@
 ----------
 <div>
 <p align="center">
-<script src="https://tryhackme.com/badge/224313"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Madintruder.png" alt="TryHackMe">
 </p>
 </div>
 ----------
