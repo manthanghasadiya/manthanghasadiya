@@ -40,7 +40,7 @@
 
 <div>
 <p align="center">
-  <img src="https://tryhackme.com/badge/224313" alt="TryHackMe">
+  <script src="https://tryhackme.com/badge/224313"></script>
 </p>
 </div>
 
