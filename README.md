@@ -40,7 +40,7 @@
 
 <div>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Madintruder.png?17" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Madintruder.png?8" alt="TryHackMe">
 </p>
 </div>
 
