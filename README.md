@@ -46,8 +46,6 @@
 
 ----------
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="MrGhasadiya" data-color="#BD5FFF" data-emoji="🍕"  data-font="Poppins" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
