@@ -26,6 +26,8 @@
 
 <br/>
 
+- 💡 Globally ranked 2300 & In Top 1% at [TryHackMe]((https://tryhackme.com/p/Madintruder))
+
 - 🌱 I’m currently learning **Web security From PortSwigger**
 
 - 👾 My Portfolio [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
