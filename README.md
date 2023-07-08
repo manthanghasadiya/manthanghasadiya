@@ -26,7 +26,7 @@
 
 <br/>
 
-- 💡 Globally ranked 2300 & In Top 1% at [TryHackMe]((https://tryhackme.com/p/Madintruder))
+- 💡 Globally ranked 2300 & In Top 1% at [TryHackMe](https://tryhackme.com/p/Madintruder)
 
 - 🌱 I’m currently learning **Web security From PortSwigger**
 
