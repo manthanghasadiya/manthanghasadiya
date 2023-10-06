@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/g_m_j_27_03/" >
-  <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
+  <img alt="Manthan's Insta" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
   <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
