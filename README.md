@@ -4,16 +4,18 @@
 
 <p align="center">
 <a href="https://www.instagram.com/g_m_j_27_03/" >
-  <img alt="Manthan's Insta" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />
+  <img alt="Manthan's Insta" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/c1268c71-5900-45f2-b36f-32e5d5805ceb)
+" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
-  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://icons8.com/icon/phOKFKYpe00C/twitterx" />
+  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/cd0d9edb-6b57-4dfd-b10c-42b5f2d88e1c)" />
 </a>
 <a href="https://www.linkedin.com/in/man-ghasadiya/">
-  <img alt="Manthan's LinkedIN" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img alt="Manthan's LinkedIN" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/c743fb5a-0a66-428f-9c37-548fb0b88f90)" />
 </a>
 <a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="https://icons8.com/icon/19318/youtube" />
+  <img alt="Manthan's YT channel" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/456bbfe4-1eb3-4d67-95a8-1437c8d41d1d)
+" />
 </a>
 </p>
 
