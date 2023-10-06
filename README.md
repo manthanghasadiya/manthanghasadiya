@@ -7,13 +7,13 @@
   <img alt="Manthan's Insta" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
-  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://icons8.com/icon/phOKFKYpe00C/twitterx" />
 </a>
-<a href="https://www.linkedin.com/in/manthan-ghasadiya-6322bb1a0/">
-  <img alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/man-ghasadiya/">
+  <img alt="Manthan's LinkedIN" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
 </a>
 <a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="/img/YT.png" />
+  <img alt="Manthan's YT channel" width="22px" src="https://icons8.com/icon/19318/youtube" />
 </a>
 </p>
 
