@@ -4,27 +4,25 @@
 
 <p align="center">
 <a href="https://www.instagram.com/g_m_j_27_03/" >
-  <img alt="Manthan's Insta" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/c1268c71-5900-45f2-b36f-32e5d5805ceb)
-" />
+  <img alt="Manthan's Insta" width="22px" src="./img/instagram.png" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
-  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/cd0d9edb-6b57-4dfd-b10c-42b5f2d88e1c)" />
+  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="./img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/man-ghasadiya/">
-  <img alt="Manthan's LinkedIN" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/c743fb5a-0a66-428f-9c37-548fb0b88f90)" />
+  <img alt="Manthan's LinkedIN" width="22px" src="./img/linkedin.png" />
 </a>
 <a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="![image](https://github.com/manthanghasadiya/manthanghasadiya/assets/68530736/456bbfe4-1eb3-4d67-95a8-1437c8d41d1d)
-" />
+  <img alt="Manthan's YT channel" width="22px" src="./img/youtube.png" />
 </a>
 </p>
 
 -----
 
-<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. Co-founder of <a href="https://www.geeksneuron.org"><img src="/img/worldwide.png" width="14">Geeksneuron.org</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
+<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="./img/india.png" width="14"/> <b> Gujarat, India</b>. Co-founder of <a href="https://www.geeksneuron.org"><img src="./img/worldwide.png" width="14"> <b>Geeksneuron.org</b></a> and also a <a href="https://youtube.com/hackynerdz"><b>YouTuber</b></a>.</p>
 <p>I like to use different Operating systems and learn different features about those OS. I also like to spread more knowledge about technology to all aroud the globe. That's why I write blogs and make youtube Videos.</p>
 
-<img src="/img/Hacking.gif" width="300" align='right'>
+<img src="./img/Hacking.gif" width="300" align='right'>
 
 <br/>
 
