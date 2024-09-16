@@ -30,7 +30,7 @@
 
 - 🌱 Focusing on some IoT/Flipper projects and certifications. 
 
-- 👾 Read My Blogs [Hackynerdz]([https://medium.com](https://medium.com/@manthan27ghasadiya))
+- 👾 Read My Blogs [Hackynerdz](https://medium.com/@manthan27ghasadiya)
 
 - 💻 Co-founder of [Geeksneuron](https://youtube.com/geeksneuron)
 
