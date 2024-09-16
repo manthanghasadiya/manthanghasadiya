@@ -28,11 +28,11 @@
 
 - 💡 Globally ranked 2300 & In Top 1% at [TryHackMe](https://tryhackme.com/p/Madintruder)
 
-- 🌱 I’m currently learning **Web security From PortSwigger**
+- 🌱 Focusing on some IoT/Flipper projects and certifications. 
 
-- 👾 My Portfolio [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
+- 👾 Read My Blogs [Hackynerdz]([https://medium.com](https://medium.com/@manthan27ghasadiya))
 
-- 💻 Co-founder of [Geeksneuron](https://geeksneuron.org)
+- 💻 Co-founder of [Geeksneuron](https://youtube.com/geeksneuron)
 
 - 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
 
