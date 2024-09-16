@@ -32,7 +32,7 @@
 
 - 👾 Read My Blogs on [Medium](https://medium.com/@manthan27ghasadiya)
 
-- 💻 Co-founder of [Geeksneuron](https://youtube.com/geeksneuron)
+- 💻 Co-founder of [Geeksneuron](https://www.youtube.com/@GeeksNeuron)
 
 - 🎥 My Youtube channel [Hackynerdz](https://youtube.com/hackynerdz)
 
