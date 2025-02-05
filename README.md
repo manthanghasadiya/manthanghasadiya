@@ -56,7 +56,7 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p>
 <p align="center">This Month Visitors</p>
-<p align="center"> <img src="https://count.getloli.com/get/@:Rushijaviya?theme=moebooru-h" alt=":name" /></p>
+<p align="center"> <img src="https://count.getloli.com/get/@:manthanghasadiya?theme=moebooru-h" alt=":name" /></p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=manthanghasadiya&show_icons=true&theme=gotham" alt="manthanghasadiya" />
